@@ -27,5 +27,4 @@ if (imc < 16) {
     classificacao = "Obesidade grau III"  
 }
 
-
 document.write("<h1>" + nome + " possui índice de massa corporal igual a " + imc.toString() + ", sendo classificado como: " + classificacao + "</h1>")
