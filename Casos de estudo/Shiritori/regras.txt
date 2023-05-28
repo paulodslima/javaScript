@@ -1,0 +1,7 @@
+O jogo também pode ser jogado em português seguindo estas regras básicas:
+
+• Duas ou mais pessoas se revezam para jogar;
+• Cada jogador deve dizer uma palavra que comece com a sílaba final da palavra anterior;
+• Apenas substantivos são permitidos;
+• As palavras não podem ser repetidas;
+• A rodada acaba quando não for possível formar uma nova palavra com a sílaba final da última palavra dita, por exemplo: maçã, colher, caminhão.

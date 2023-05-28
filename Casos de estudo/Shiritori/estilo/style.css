@@ -1,0 +1,72 @@
+#index {
+    background-image: url('../imagens/fundo_inicio.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+#pagina_jogo {
+    background-image: url('../imagens/cenario_jogo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+#pagina_derrota {
+    background-image: url('../imagens/fundo_derrota.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+#pagina_vitoria {
+    background-image: url('../imagens/fundo_inicio.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* formatação do input para as palavras */
+
+#resposta {
+    width: 400px; 
+    height: 50px; 
+    text-align: center; 
+    font-size: x-large; 
+    background-color: rgba(0, 0, 0, .5); 
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#resposta::placeholder { color: white}
+
+/* tela de tempo */
+#telaTempo{
+    height: 100px;
+    width: 250px;
+    font-size: large;
+}
